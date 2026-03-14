@@ -1,5 +1,6 @@
 # About me!
 
+Heya! I'm Ryan, a current student at Northern Essex Community College working towards my Associate's degree in Information Technology and expected to graduate this May! (2026).
 
 
 🔭 I’m currently working on ... This profile! As well as a technological portfolio, among all my coursework for this semester. 
